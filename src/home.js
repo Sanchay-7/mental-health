@@ -19,11 +19,11 @@ function UserHome(){
                     </button>
                     <div class="collapse navbar-collapse d-flex justify-content-between" id="navbarNav">
                         <ul class="navbar-nav mr-auto">
-                            <li class="nav-item"><a class="nav-link" href="link5">Forums</a></li>
-                            <li class="nav-item"><a class="nav-link" href="#link4">Contacts</a></li>
-                            <li class="nav-item"><a class="nav-link" href="link3">News</a></li>
-                            <li class="nav-item"><a class="nav-link" href="link2">Events</a></li>
-                            <li class="nav-item"><a class="nav-link" href="link1">Therapists</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="link5">Appointments</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="#link4">Contacts</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="link3">News</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="link2">Events</a></li>
+                            <li class="nav-item"><a class="nav-link text-white" href="/Therapist">Therapists</a></li>
                         </ul>
                         <span>
                             <span class="navbar-text mr-2 px-4">Abishek</span>
